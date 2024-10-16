@@ -22,4 +22,5 @@
   <a href = "mailto:tiagosilva_live_2016@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
-![snake gif](https://github.com/Tiago-SilvaRP/Tiago-SilvaRP/blob/output/github-contribution-grid-snake.svg)
+## Contribution graph
+![snake gif] (https://github.com/Tiago-SilvaRP/Tiago-SilvaRP/blob/output/github-contribution-grid-snake.svg)
